@@ -7,3 +7,10 @@ This project has different regression and classification algorithms. Data of all
 * Support Vector Regression
 * Decision Tress Regression
 * Random Forest Regression
+
+## Classification Algorithms:
+* Naive Bayes algorithm
+* kNN Classifier
+* SVM Classifer
+* Decision Tress Classifer
+* Random Forest Classifer
