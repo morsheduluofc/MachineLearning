@@ -10,7 +10,7 @@ This project has different regression and classification algorithms. Data of all
 
 ## Classification Algorithms:
 * Naive Bayes algorithm: We find whether a user buys a product by clicking the ad on the site based on their salary, age, and gender. This is a cclassification problem. See NaiveBayes.ipynb file 
-* kNN Classifier:
+* kNN Classifier: We find the species of Iris based on four features. See kNNClassifier.ipynb file
 * SVM Classifer:
 * Decision Tress Classifer:
 * Random Forest Classifer:
