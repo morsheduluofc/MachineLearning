@@ -11,6 +11,6 @@ This project has different regression and classification algorithms. Data of all
 ## Classification Algorithms:
 * Naive Bayes algorithm: We find whether a user buys a product by clicking the ad on the site based on their salary, age, and gender. This is a cclassification problem. See NaiveBayes.ipynb file 
 * kNN Classifier: We find the species of Iris based on four features. See kNNClassifier.ipynb file
-* SVM Classifer:
+* SVM Classifer: We use the cancer dataset to classify the user. See SVMClassifer.ipynb file
 * Decision Tress Classifer:
 * Random Forest Classifer:
