@@ -9,8 +9,8 @@ This project has different regression and classification algorithms. Data of all
 * Random Forest Regression: We will predict revenue based on temperature from Icecream Data using random forest-based regression. See TreeForestRegression.ipynb file
 
 ## Classification Algorithms:
-* Naive Bayes algorithm
-* kNN Classifier
-* SVM Classifer
-* Decision Tress Classifer
-* Random Forest Classifer
+* Naive Bayes algorithm: We find whether a user buys a product by clicking the ad on the site based on their salary, age, and gender. This is a cclassification problem. See NaiveBayes.ipynb file 
+* kNN Classifier:
+* SVM Classifer:
+* Decision Tress Classifer:
+* Random Forest Classifer:
