@@ -2,7 +2,7 @@
 This project has different regression and classification algorithms. Data of all projects are stored in Data folder.
 
 ## Regression Algorithms:
-* Linear Regression
+* Linear Regression: We will predict the house price based on available features.
 * Polynomial Regression
 * Support Vector Regression
 * Decision Tress Regression
