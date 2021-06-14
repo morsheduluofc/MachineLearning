@@ -1,5 +1,5 @@
 # Different Machine Learning Algorithms
-This project has different regression and classification algorithms. Data of all projects are stored in Data folder.
+This project uses different regression and classification algorithms to predict value and classify the data. All dataset are stored in Data folder.
 
 ## Regression Algorithms:
 * Linear Regression: We will predict house price based on available features. See LinearRegression.ipynb file
