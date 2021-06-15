@@ -1,8 +1,8 @@
-# Different Machine Learning Algorithms
-This project uses different regression and classification algorithms to predict value and classify the data. All dataset are stored in Data folder.
+# Machine Learning Algorithms
+This project uses different regression and classification algorithms to predict the value and classify the data. Dataset are stored in the 'Data' folder.
 
 ## Regression Algorithms:
-* Linear Regression: We will predict house price based on available features. See LinearRegression.ipynb file
+* Linear Regression: It will predict house price based on available features (e.g.,). See LinearRegression.ipynb file
 * Polynomial Regression: We will predict salary based on year of experience. See PolynomialRegression.ipynb file
 * Support Vector Regression: We will predict marks based on hours of study. See SupportVectorRegression.ipynb file
 * Decision Tress Regression: We will predict revenue based on temperature from Icecream Data using tree-based regression. See TreeForestRegression.ipynb file
